@@ -1,0 +1,5 @@
+- BOM: Browser Object Model
+- Este metodo es para trabajar directamente con el navegador.
+- Con la propiedad y metodo, 'window.innerWidth' y 'window.innerHeigth', puedo saber el ancho y alto de la pantalla. Lo que puede ocurrir con esta propiedad y metodo es que me varie los tamaños en caso que la consola este abierta en la pantalla del navegador. Para que no ocurra esto, se puede usar la propiedad y metodo 'screen.width' y 'screen.heigth', que sirven para lo mismo pero estos omiten cualquier cosa que esta impidiendo saber el tamaño real de la pantalla.
+- Con la propiedad y metodo, 'window.location', puedo saber la 'url' en la que se esta en ese momento. Agregandole el metodo 'href', se captará directamente la 'url.
+- Con la propiedad y metodo, 'window.open', puedo pasarle una 'url' y este lo abrirá pero en otra pestaña.

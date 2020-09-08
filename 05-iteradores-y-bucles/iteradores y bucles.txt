@@ -1,0 +1,10 @@
+For: 
+El iterador 'for' siempre cuenta con un contador, el cual puede estar inicializado en 0 o en 1, o dependiendo de la necesidad.
+El 'for' se conforma por 3 parametros, el primero un acumulador, segundo una condición y tercero un incremento del contador.
+Es decir, todo lo que ocurra dentro de un 'for' se repetira las veces que sea necesario hasta cumplir la condición con la que compara el acumulador.
+While: 
+El 'while' es un bucle que se basa en cumplir una serie de procesos, si la condición se cumple. En caso de cumplir esas condiciones, el codigo nunca entra al bucle.
+Es decir, el 'while' primero pregunta y despues ejecuta.
+Do While:
+El 'while' es un bucle similar al 'while', con la diferencia de que el proceso siempre entra al bucle. Pero para salir se debe de cumplir con una condición.
+Es decir, a diferencia del 'while' el 'do while' primero ejecuta y despues pregunta. 

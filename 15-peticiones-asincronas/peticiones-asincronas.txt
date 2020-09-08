@@ -1,0 +1,13 @@
+- Ajax: una peticion Ajax es una llamada a un servicio rest / apirest o a un backend, que nos devuelva un resultado y que se pueda manipular esos resultados según necesidad.
+- Fetch: es un metodo que permite hacer peticiones Ajax.
+- Para estas practicas se utilizara como Api, la página 'JSON PLACEHOLDER'.
+- Para hacer una peticion asincrona, debo usar el metodo 'fetch', al que le pasaré como paremetro la 'url' del servicio del que quiera extraer datos.
+- Luego con el metodo '.then', recogeremos los datos, y con una función de callback y a estos los convertiremos a un JSON.
+- Luego con con otro metodo '.then', lo que esta en la variable creada anteriormente en la función, lo guardaremos en una variable o array.
+- Metodo 'map', sirve para recorrer un array. Se le aplica al array, como primer parametro variable donde se guardará el dato y como segundo el indice.
+- Las promesas son muy utiles, para no tener una gran anidación, una dentro de otra de funciones de callback y de esa manera tener un codigo un poco más limpio, ya que si necesitara un dato en particular, deberia escarbar mucho dentro de una misma función que quizas tambien esta mostrando otros datos, de manera que sea casi ilegible el codigo. 
+- Al momento de crear promesas anidadas, no agregarles al finalizar el punto y coma ";".
+- Con el metodo 'catch', se pueden captar errores en las promesas. Por ejemplo, si no cargara la Api por falta de intener, indicar que muestre un alert o un error en la consola.
+- Los metodos 'try' y 'catch' sirven para poder capturar errores. Dentro de 'try' ubicare el codigo y en catch, pondre el mensaje a mostrar en caso de error.
+
+

@@ -1,0 +1,9 @@
+- Una funcion es un conjunto de instrucciones reutilizables, que se invocaran siempre que se las requiera. 
+- Las funciones se crean con la palabra 'function' seguido del nombre que se le dara a esa función.
+- Los parametros son variables que pueden alterar el resultado que devuelve la funcion. Estos parametros iran en los parentesis seguidos del nombre de la funcion y al llamar a la funcion, pasare los parametros por los parentesis seguidos del nombre de la funcion. 
+- Los parametros opcionales son, parametros que no necesariamente debo pasarle a la funcion para que funcione. Ejemplo en '3. parametros opcionales.js'.
+- Los parametros rest y spread, este tipo de parametro es creado cuando ocurre que se le pasan más parametros a la función de las que necesita. Estos parametros restantes en vez de olvidarlos, se puede crear este tercer parametro donde se alojaran los datos ingresados en un 'array'. Este tipo de parametro comenzara con tres puntos seguido del nombre que se le quiera dar. 
+- Una funcion anonima es aquella que no tiene nombre y que para utilizarla la puedo guardar dentro de una variable. 
+- Una funcion de callback, es una funcion que se ejecuta dentro de otra. Estas funciones son enviadas a traves de los parametros de llamada a la funcion principal.
+- Las funciones flecha, son iguales que las normales o de callback, solo que estas no necesitan la palabra reservada 'function' y se le agrega un '=>' a la derecha de la variable que guardara el dato.
+- Las variables creadas dentro de una funcion, solo pueden ser usadas dentro.

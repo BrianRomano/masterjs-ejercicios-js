@@ -1,0 +1,3 @@
+- 'Math.round': redondea el valor a un entero.
+- 'Math.pow': calcula potencia. Primer parametro el numero a elevar y segundo parametro el potencial.
+- 'Math.sqrt': calcula raiz cuadrada.

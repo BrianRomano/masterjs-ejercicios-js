@@ -1,0 +1,11 @@
+Para poder trabajar con condicionales es necesarios saber utilizar operadores relacionales. Estos son:
+- Mayor: >
+- Menor: <
+- Igual: ==
+- Mayor o igual: >=
+- Menor o igual: <= 
+- Distinto: !=
+A estos operadores se les suma tambien el uso de operadores logicos
+- And (y): &&
+- Or (o): ||
+- Not (negación): !
