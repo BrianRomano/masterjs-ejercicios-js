@@ -1,8 +1,0 @@
-- Una variable es un contenedor de información. 
-- En Javascript las variables son de tipado debil, es decir no se necesita especificar que tipo de dato almacenan dentro.
-- Las variables pueden cambiar su valor mientras el codigo se va ejecutando.
-- Los strings deben ir en comillas simples o dobles. 
-- Es posible concatenar dos variables mediante el operador "+".
-- El modo estricto es recomendable usar ya que obliga a tener buenas practicas, evitando errores en el codigo.
-- Al momento de declarar las variables se puede hacer con la palabra 'var' o 'let'. La diferencia se muestra 'let y var.js'.
-- Las constantes son como variables, solo que estas no permiten modificar su valor. Se declaran con la palabra 'const'.

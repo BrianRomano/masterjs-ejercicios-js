@@ -1,8 +1,0 @@
-- DOM: Document Object Model.
-- Al manipular elementos HTML, los scripts se deben cargar final del body, para que carguen luego del HTML y no antes, ocurriendo de esta manera un error. 
-- Es posible captar elementos del HTML con su ID, en JavaScript utilizando el metodo 'document.getElementById', al cual se le pasara como parametro el nombre "entre comillas" del ID.
-- Es posible captar elementos del HTML con su Clase, en JavaScript utilizando el metodo 'document.getElementByClassName', al cual se le pasara como parametro el nombre "entre comillas" de la clase.
-- Otra posibilidad de captar elementos del HTML y quizas la más recomendada, es a traves de 'document.querySelector', al cual se le pasara como parametro el nombre "entre comillas", de (en caso de ser un ID, primero '#', seguido de su nombre) y (en caso de ser una clase, primero '.', seguido de su nombre)
-- El metodo 'innerHTML', capta elementos del HTML.
-- Para capturar elementos por etiqueta, se utilizará el metodo 'document.getElementsByTagName'. Al cual se le pasara como parametro el tipo de etiqueta que se quiere caputar y este me guardara el contenido en un array.
-- El metodo 'textContent' muestra de la misma manera que el metodo 'innerHTML', solo que este ultimo me permite modificar el contenido.

@@ -1,6 +1,0 @@
-- A traves del metodo 'Date', se puede tener la fecha, hora, estación, etc., lista para utilizar, mostrar etc.
-- A su vez a este metodo 'Date', una vez que se lo guarda en una variable, a esta se le puede extraer datos, con los metodos 'get'
-- El metodo 'getFullYear': toma el año.
-- El metodo 'getMonth': toma el mes, (Arranca a contar los meses desde 0, o sea Enero = 0).
-- El metodo 'getDate' o 'getDay': toma el dia.
-- El metodo 'getHours': toma las horas.

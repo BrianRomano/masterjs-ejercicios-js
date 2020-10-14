@@ -1,7 +1,0 @@
-- JSON: JavaScript Objet Notation, son arrays asociativos.
-- Un objeto JSON se compone por el nombre del contenido, seguido de dos puntos y el contenido. En caso que se un string, ira entre comillas y en caso de ser numeros, sin comillas.
-- Cada contenido ira separado por comas.
-- Los objetos JSON se deben guardar en una variable.
-- Para poder ingresar a un objeto del JSON, se debe colocar el nombre de la variable en la que esta guardada el, seguido de un punto "." y el nombre del contenido al que se quiere manipular.
-- A su vez tambien a travez de la utilización del punto, se puede cambiar el contenido albergado en el objeto.
-- Tambien es posible guardar varios JSON, en un array. 

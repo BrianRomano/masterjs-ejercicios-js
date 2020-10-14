@@ -1,2 +1,0 @@
-- Set interval: permite ejecutar un trozo de codigo cada cierto tiempo. Este esta conformado por el metodo 'setInterval', seguido de la funcion que compone el codigo a ejecutar y como segundo parametro el intervalo en milisegundos en el que se ejecutará.
-- Set time out: funciona de la misma forma que setInterval, solo que se podra repetir solo una vez. El metodo es 'setTimeout'.

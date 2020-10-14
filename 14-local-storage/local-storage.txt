@@ -1,5 +1,0 @@
-- El local storage, es una manera de almacenar información en el navegador. Es como una memoria que permanece mientras se navega en la pagina web.
-- En el local storage no es posible guardar objetos JSON puros, para solventar esto se deben transformar a JSON String.
-- El metodo 'JSON.stringify', sirve para convertir un JSON en un JSON String.
-- El metodo 'JSON.parse', sirve para convertir un JSON String, en un JSON puro.
-- El metodo 'localStorage.removeItem', sirve para eliminar contenido del local storage. A este hay que pasarle como parametro entre comillas, el nombre de la key a eliminar.
